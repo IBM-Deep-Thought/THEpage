@@ -1,0 +1,7 @@
+INSTRUCTIONS:
+1. Download visual studio code from the link in the file.
+2. Download THEpage from the link in the file.
+3. Open THEpage.html with visual studio code.
+4. When opened, run the code (Ctrl-shift-D	RUN AND DEBUG	Accept all 	open with your navigator, chrome preferably).
+5. There is THEpage
+
